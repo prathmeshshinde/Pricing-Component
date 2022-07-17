@@ -19,6 +19,7 @@ body {
 
 #dark .traffic-text {
   color: hsl(174, 86%, 45%);
+  font-size: 28px;
 }
 
 #dark p {
@@ -128,6 +129,10 @@ p {
   padding: 60px 0px 0px 0px;
   margin: 10px;
   color: hsl(227, 35%, 25%);
+}
+
+.traffic-text {
+  font-size: 28px;
 }
 
 .para {
@@ -476,6 +481,10 @@ button:hover {
 
   #dark .traffic-text {
     color: hsl(174, 86%, 45%);
+    font-size: 20px;
+  }
+
+  .traffic-text {
     font-size: 20px;
   }
 
