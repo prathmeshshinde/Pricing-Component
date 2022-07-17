@@ -469,7 +469,7 @@ button:hover {
 
 /*------------------ RESPONSIVE ------------------*/
 
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 375px) {
   body {
     margin: 0px;
   }
